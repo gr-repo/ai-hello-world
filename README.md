@@ -1,7 +1,33 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# AI Hello World
+This is a **public repository** with a set of "getting started" guides that run completely in GitHub Codespaces. This repo calls public LLM's so if you run this in a corporate be aware that you will be sending data out to the public internet.
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+See the [notebooks](./notebooks/) folder there's a folder per technology/subject.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+# Setup Steps
+1. Go to [MySettings](./src/common/my_settings.py) to see what settings are required. You can override these manually in the [MySettings](./src/common/my_settings.py) class or setup your environment. The default is to pull from GitHub Codespaces dev env.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+### Open AI Setup
+#### How to create a new Open AI API Key
+1. Goto API Keys: https://platform.openai.com/settings/organization/api-keys 
+1. Create new secret key
+
+#### How to add more models to call into
+1. Go to Settings: https://platform.openai.com/settings/organization/general
+1. Click SECOND "Limit" menu heading, there are two on the list in the RHS. 
+1. On "Project limits" page...
+1. Under "Model usage" > "Allowed models" click Edit
+1. Select models you want to add/remove
+
+### Codespaces Setup
+#### How too add an env secret
+1. Browse to the code repo > settings > Secrets and variables > Codespaces: https://github.com/YOURREPOSITORYNAME/settings/secrets/codespaces
+1. Click: Add new repository key
+1. Create key, don't use quotes on value
+1. If you have the Codespace running you may need to restart it and wait a couple of minutes
+
+
+
+
+
+
+# 
