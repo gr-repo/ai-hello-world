@@ -1,5 +1,5 @@
 # AI Hello World
-This is a **public repository** with a set of "getting started" guides that run completely in GitHub Codespaces. This repo calls public LLM's so <span style="color: red;">if you run this on your computer in a corporate be aware that **you will be sending data out to the public internet**.</span>
+This is a **public repository** with a set of getting started guides that run completely in GitHub Codespaces. This repo calls public LLM's so <span style="color: red;">if you run this on your computer in a corporate be aware that **you will be sending data out to the public internet**.</span>
 
 See the [notebooks](./notebooks/) folder there's a folder per technology/subject.
 
@@ -34,13 +34,14 @@ See [GitHub Codespaces billing
 1. Browse to [GitHub Codespaces](https://github.com/codespaces)
 1. Click "Use this template" under Jupyter Notbook
 1. A new space will spin up that is a fork of Visual Studio Code
-1. Once spun yp
+1. This runs in a container on GitHub Codespaces outside of corporate networks.
 
 #### How to run a Codespace off a repository
 1. Browse to a repo: https://github.com/gr-repo/ai-hello-world
 1. Click the green "Code" button
 1. Click "Codespaces" tab
 1. Choose your Codespace option (i.e., + to create a new one)
+1. This runs in a container on GitHub Codespaces outside of corporate networks.
 
 #### How work in Visual Studio Code Desktop but run the Codespace from the cloud
 1. You can edit code in VS Code but the app runs in the cloud
@@ -48,6 +49,7 @@ See [GitHub Codespaces billing
 1. Scroll down to existing Codespaces you have created
 1. Click the "..."
 1. Select "Open in Visual Studio Code"
+1. This runs in a container on GitHub Codespaces outside of corporate networks.
 
 
 
