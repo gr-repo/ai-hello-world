@@ -3,7 +3,7 @@ from IPython.display import Markdown, display
   
 def md(*args):
     """
-    Prints values as Markdown
+    Prints values as Markdown in Notebook Output fields
     """
     text = ''
     for i in args:
