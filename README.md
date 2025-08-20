@@ -1,5 +1,5 @@
 # AI Hello World
-This is a **public repository** with a set of "getting started" guides that run completely in GitHub Codespaces. This repo calls public LLM's so if you run this in a corporate be aware that you will be sending data out to the public internet.
+This is a **public repository** with a set of "getting started" guides that run completely in GitHub Codespaces. This repo calls public LLM's so <span style="color: red;">if you run this on your computer in a corporate be aware that **you will be sending data out to the public internet**.</span>
 
 See the [notebooks](./notebooks/) folder there's a folder per technology/subject.
 
@@ -19,11 +19,39 @@ See the [notebooks](./notebooks/) folder there's a folder per technology/subject
 1. Select models you want to add/remove
 
 ### Codespaces Setup
+NOTE: Running Codespaces has a cost implications that hits **the user running the application**. If your account is linked to a corporate account they will not necessarily pick up the cost. 
+This cost is mininal and the Codespaces auto-turn themselves off. 
+See [GitHub Codespaces billing
+](https://docs.github.com/en/billing/concepts/product-billing/github-codespaces)
+
 #### How too add an env secret
 1. Browse to the code repo > settings > Secrets and variables > Codespaces: https://github.com/YOURREPOSITORYNAME/settings/secrets/codespaces
 1. Click: Add new repository key
 1. Create key, don't use quotes on value
 1. If you have the Codespace running you may need to restart it and wait a couple of minutes
+
+#### How to run a new Codespace in the browser
+1. Browse to [GitHub Codespaces](https://github.com/codespaces)
+1. Click "Use this template" under Jupyter Notbook
+1. A new space will spin up that is a fork of Visual Studio Code
+1. Once spun yp
+
+#### How to run a Codespace off a repository
+1. Browse to a repo: https://github.com/gr-repo/ai-hello-world
+1. Click the green "Code" button
+1. Click "Codespaces" tab
+1. Choose your Codespace option (i.e., + to create a new one)
+
+#### How work in Visual Studio Code Desktop but run the Codespace from the cloud
+1. You can edit code in VS Code but the app runs in the cloud
+1. Browse to [Codespaces](https://github.com/codespaces)
+1. Scroll down to existing Codespaces you have created
+1. Click the "..."
+1. Select "Open in Visual Studio Code"
+
+
+
+
 
 
 
