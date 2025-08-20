@@ -6,7 +6,6 @@ import httpx
 
 ##################################################
 # Cert Issues
-# https://absa.atlassian.net/wiki/spaces/CIBAI/pages/1546092545/Sorting+out+certificates
 
 class LlmClientFactory:
     
@@ -53,5 +52,6 @@ class LlmClientFactory:
         print('THIS WILL SEND DATA OUT OF THE NETWORK, USE WITH CAUTION')
         return client
     
+
 
         
