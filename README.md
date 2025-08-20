@@ -3,15 +3,12 @@ This is a **public repository** with a set of getting started guides that run co
 
 See the [notebooks](./notebooks/) folder there's a folder per technology/subject.
 
+# Suggested Path 
+1. Do [Setup Steps](#setup-steps) below to setup your environment
+1. Run [openai_1_hello_world.ipynb](/notebooks/openai_notebooks/openai_1_hello_world.ipynb) to test connectivity. Most calls are into Open AI so do this first to sort out connectivity and api key isses.
+1. Start exploring [notebooks](./notebooks/) folders
+
 # Setup Steps
-1. Go to [MySettings](./src/common/my_settings.py) to see what settings are required. You can override these manually in the [MySettings](./src/common/my_settings.py) class or setup your environment. The default is to pull from GitHub Codespaces dev env.
-1. Run Editable Package Installation
-    1. This makes files under "src" behave as packages so you can import them using
-    1. Open Terminal
-    1. Go to project rool /workspaces/ai-hell-world
-    1. Run "pip install -e ."
-
-
 ### Open AI Setup
 #### How to create a new Open AI API Key
 1. Goto API Keys: https://platform.openai.com/settings/organization/api-keys 
@@ -56,6 +53,14 @@ See [GitHub Codespaces billing
 1. Click the "..."
 1. Select "Open in Visual Studio Code"
 1. This runs in a container on GitHub Codespaces outside of corporate networks.
+
+### Development environment before running code
+1. Go to [MySettings](./src/common/my_settings.py) to see what settings are required. You can override these manually in the [MySettings](./src/common/my_settings.py) class or setup your environment. The default is to pull from GitHub Codespaces dev env.
+1. Run Editable Package Installation
+    1. This makes files under "src" behave as packages so you can import them using
+    1. Open Terminal
+    1. Go to project rool /workspaces/ai-hell-world
+    1. Run "pip install -e ."
 
 
 
