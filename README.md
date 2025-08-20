@@ -7,6 +7,7 @@ See the [notebooks](./notebooks/) folder there's a folder per technology/subject
 1. Do [Setup Steps](#setup-steps) below to setup your environment
 1. Run [openai_1_hello_world.ipynb](/notebooks/openai_notebooks/openai_1_hello_world.ipynb) to test connectivity. Most calls are into Open AI so do this first to sort out connectivity and api key isses.
 1. Start exploring [notebooks](./notebooks/) folders
+1. Keep an eye on [Monitor costs](#monitor-costs)
 
 # Setup Steps
 ### Open AI Setup
@@ -61,6 +62,11 @@ See [GitHub Codespaces billing
     1. Open Terminal
     1. Go to project rool /workspaces/ai-hell-world
     1. Run "pip install -e ."
+
+# Monitor Costs
+1. [OpenAI Usage](https://platform.openai.com/settings/organization/usage)
+1. [Codespaces Usage](https://github.com/settings/billing/usage)
+
 
 
 
