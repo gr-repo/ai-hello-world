@@ -5,6 +5,12 @@ See the [notebooks](./notebooks/) folder there's a folder per technology/subject
 
 # Setup Steps
 1. Go to [MySettings](./src/common/my_settings.py) to see what settings are required. You can override these manually in the [MySettings](./src/common/my_settings.py) class or setup your environment. The default is to pull from GitHub Codespaces dev env.
+1. Run Editable Package Installation
+    1. This makes files under "src" behave as packages so you can import them using
+    1. Open Terminal
+    1. Go to project rool /workspaces/ai-hell-world
+    1. Run "pip install -e ."
+
 
 ### Open AI Setup
 #### How to create a new Open AI API Key

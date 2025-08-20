@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/ai_hello_world.egg-info/PKG-INFO
+src/ai_hello_world.egg-info/SOURCES.txt
+src/ai_hello_world.egg-info/dependency_links.txt
+src/ai_hello_world.egg-info/top_level.txt
+src/common/__init__.py
+src/common/my_settings.py
