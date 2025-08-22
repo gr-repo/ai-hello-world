@@ -8,9 +8,10 @@ class MySettings:
     def get(self):
         
         if self.is_codespaces():
+            print("Getting keys from environment variables")
             self.OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
             
-            return 
+            return self
         
         print('Setup your keys')
         
