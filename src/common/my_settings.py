@@ -4,12 +4,14 @@ class MySettings:
     
     def __call__(self, *args, **kwds):
         self.OPENAI_API_KEY = 'YOURKEY'
+        self.SERP_API_KEY = 'YOURKEY'
         
     def get(self):
         
         if self.is_codespaces():
             print("Getting keys from environment variables")
             self.OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+            self.SERP_API_KEY = os.getenv("SERP_API_KEY")
             
             return self
         

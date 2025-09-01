@@ -1,4 +1,4 @@
- 
+import json 
 from IPython.display import Markdown, display
   
 def md(*args):
@@ -18,3 +18,10 @@ def md(*args):
         text = text + i
         
     return display(Markdown(text))
+
+def js(json_data):
+    """
+    Prints JSON data as pretty JSON in Notebook Output fields
+    """
+    text = json.dumps(json_data, indent=4)
+    return display(Markdown(f"```json\n{text}\n```"))
