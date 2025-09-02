@@ -13,6 +13,9 @@ def md(*args):
         if len(i) == 0:
             text = text + '\n\n'
             continue
+
+        # Convert line breaks to Markdown line breaks
+        i = i.replace('\n', '  \n')
         
         # Append the string
         text = text + i
