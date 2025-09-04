@@ -1,6 +1,0 @@
-{
-  "system_prompt_or_template": null,
-  "signature": {
-    "doc": "You are a renowned chef hosting a high-profile event with discerning guests. Your reputation is on the line as you need to impress them with a unique and exquisite dish. Consult the language model to predict the name and dish type of the meal you should serve for today's event.",
-    "inputs": {
-      "suggested_meal": 
