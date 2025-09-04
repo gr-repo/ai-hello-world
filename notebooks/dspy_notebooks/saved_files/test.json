@@ -3,7 +3,7 @@
   "train": [],
   "demos": [],
   "signature": {
-    "instructions": "Guess a number",
+    "instructions": "Guess a number from 1 to 5..",
     "fields": [
       {
         "prefix": "Number Guess:",
