@@ -4,7 +4,8 @@ This is a **public repository** with a set of getting started guides that run co
 See the [notebooks](./notebooks/) folder there's a folder per technology/subject.
 
 # Suggested Path 
-1. Do [Setup Steps](#setup-steps) below to setup your environment
+1. [How to add an environmental secret](#how-too-add-an-env-secret)
+1. [Development environment before running code](#development-environment-before-running-code)
 1. Run [openai_1_hello_world.ipynb](/notebooks/openai_notebooks/openai_1_hello_world.ipynb) to test connectivity. Most calls are into Open AI so do this first to sort out connectivity and api key isses.
 1. Start exploring [notebooks](./notebooks/) folders
 1. Keep an eye on [Monitor costs](#monitor-costs)
