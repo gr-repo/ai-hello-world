@@ -1,0 +1,1148 @@
+# https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.dtf.vic.gov.au%2Fsites%2Fdefault%2Ffiles%2F2024-10%2FLoan-Agreement.DOCX&wdOrigin=BROWSELINK
+
+sample_loan_agreement = """
+Loan Agreement – Standard Terms
+
+What is this sample document usually called? Loan Agreement.
+
+What group of documents does it
+
+belong to? Project Financing Documents. See What other documents are closely related to it? below.
+
+Who will sign it? Proponent. Financier.
+
+When is it used? Partnerships Addressing Disadvantage arrangements (PAD Arrangement).
+
+What does it do? Provides for a loan from the Financier to the Proponent to fund the Project under the relevant PAD Arrangement.
+
+What areas does it cover? - The purpose for which funds may be used. - Loan funding mechanics, and applicable interest. - Repayment obligations. - Representations, warranties and undertakings. - Events of default, indemnities and assignment.
+
+What drafting options does it
+
+include? Optional Provisions that may be applicable to a transaction. Drafting instructions are included in the sample document to assist in drafting for the inclusion (or removal) of these and other optional features.
+
+What other documents are
+
+closely related to it? - Master Guarantee Deed – provides for a guarantee of the payment of all amounts due and owing by the Proponent to the Financier by the First Loss Guarantor and all Additional Guarantors. - Guarantor Accession Deed Poll – enables Additional Guarantors to accede to the Master Guarantee Deed. - Pledge Deed – enables Pledgors to make a pledge to the Proponent for the purpose of supporting the Project for an aggregate agreed amount. - Side Deed – details, among other things, certain undertakings made by the Proponent and the Financier to the State of Victoria (acting through a named Government Department) (the State) and the State’s limited liability.
+
+What should we do before we use
+
+this sample document? This sample document contains general provisions and other information only and does not take into account the objectives, needs or financial arrangements of any particular transaction. Before using this sample document, you should: - carefully consider and make your own assessment of whether it is appropriate for the PAD Arrangement or other transaction that you are considering; - perform your own independent investigation and analysis of the suitability and appropriateness of this sample document for any PAD Arrangement or other transaction that you are considering; - consult your own legal, tax, financial and other professional advisers as part of your assessment of this sample document and its
+
+suitability for your transaction; and - satisfy yourself that cross references in the sample document to other provisions of the sample document, or to any provisions or the names of other documents, are correct.
+
+Why is this sample document
+
+available? This sample document is intended to provide a guide for, and to streamline the development of, the documentation (and specific provisions) that may be used as an alternative financing structure for a PAD Arrangement. The acceptance of the final form of this document by the State will be a key condition for any agreement of the terms of a PAD Arrangement. However, it may not be suitable in all circumstances and the State reserves the right to require a departure from this sample document in order to address the specifics of a particular PAD Arrangement, to address then current market practice and conditions and otherwise as necessary to protect the interests of the relevant department, agency or other State body and the State.
+
+Where can I get further
+
+information? If you have any questions in relation to this sample document, or any specific provision or other related information, queries can be directed to pads@dtf.vic.gov.au.
+
+Legal matters
+
+This sample document has been prepared by Norton Rose Fulbright Australia at the request of, and in consultation with, the Victorian Department of Treasury and Finance (DTF) and its advisers. It forms part of a suite of sample transaction documents that has been developed by DTF for use in connection with PAD Arrangements.
+
+Users of this sample document are directed to the copyright notices on its cover page. No reliance may be placed for any purposes whatsoever on the provisions and other information contained in this sample document (or any other communications or materials separately provided or discussed verbally in connection with this sample document) or on its completeness, accuracy or fairness. No representation or warranty, expressed or implied, is given by, or on behalf of, the State, Norton Rose Fulbright Australia or any other person as to the provisions and other information included in this sample document being acceptable to the State in all circumstances, that it is suitable for any particular PAD Arrangement or as to the accuracy or completeness of the provisions or other information contained in this sample document and no liability whatsoever is accepted by the State or Norton Rose Fulbright Australia for any loss howsoever arising, directly or indirectly, from any use of such provisions or other information or otherwise arising in connection with it. The provisions and other information in this sample document are subject to negotiation, verification, completion and change.
+
+
+
+
+Dated Loan agreement Parties [insert Proponent name] ACN [number] [insert Financier name] ACN [number]
+
+
+© 2019 State of Victoria, State of New South Wales and State of Queensland
+
+
+
+
+This document has been prepared by Norton Rose Fulbright Australia at the request of, and in consultation with, the State of Victoria (Department of Treasury and
+
+Finance). You are free to re-use this work under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Australia licence (available at
+
+https://creativecommons.org/licenses/by-nc-sa/3.0/au/legalcode) (Licence), provided you retain this notice, indicate if changes were made and comply with the other
+
+licence terms. You must not in any way suggest that the State of Victoria or other Governments endorse you or your use. The licence does not apply to any branding,
+
+including Government logos.
+
+
+This document has been derived in part from the sample social benefit bond transaction documents (Reference Work) prepared by the State of Queensland in
+
+consultation with Trevor Danos AM and King & Wood Mallesons, available at https://www.treasury.qld.gov.au/projects-infrastructure/initiatives/sbb/resources.php.
+
+The Reference Work is derived in part from the sample legal documents of the NSW Office of Social Impact Investment, prepared by the NSW Crown Solicitor’s
+
+Office in consultation with Trevor Danos AM, available at http://www.dpc.nsw.gov.au/programs_and_services/social_impact_investment/social_benefit_bonds. To
+
+the extent that this work is a derivative work of those works, this work is licensed to you under clause 9 of the Licence.
+
+
+Copyright queries may be directed to IPpolicy@dtf.vic.gov.au.
+
+Contents
+
+
+2 Definitions and interpretation ..........................................................................................4
+
+2.1 Details ..............................................................................................................4
+
+2.2 Definitions .........................................................................................................4
+
+2.3 Interpretation .....................................................................................................8
+
+2.4 Parties ..............................................................................................................9
+
+3 Availability and limits ......................................................................................................9
+
+3.1 Availability of Facility ..........................................................................................9
+
+3.2 Conditions Precedent.........................................................................................9
+
+3.3 Limit of Facility...................................................................................................9
+
+3.4 Redrawings .......................................................................................................9
+
+3.5 Cancellation ......................................................................................................9
+
+4 Purpose ........................................................................................................................9
+
+5 Interest........................................................................................................................ 10
+
+5.1 Interest on Advance ......................................................................................... 10
+
+5.2 Accrual and payment ....................................................................................... 10
+
+5.3 Rate................................................................................................................ 10
+
+6 Prepayments of Advances............................................................................................ 10
+
+6.1 Voluntary prepayments .................................................................................... 10
+
+6.2 Interest and break costs ................................................................................... 10
+
+7 Repayments ................................................................................................................ 11
+
+7.1 Repayment schedule ....................................................................................... 11
+
+7.2 Amount payable............................................................................................... 11
+
+8 Payments .................................................................................................................... 11
+
+8.1 Payments by Borrower ..................................................................................... 11
+
+8.2 No deductions ................................................................................................. 11
+
+8.3 Payment to be made on Business Day .............................................................. 12
+
+8.4 Appropriation where insufficient money available ............................................... 12
+
+8.5 Rounding ........................................................................................................ 12
+
+9 Changes in law ............................................................................................................ 12
+
+9.1 Increased costs ............................................................................................... 12
+
+10 Illegality....................................................................................................................... 13
+
+11 Representations and warranties.................................................................................... 13
+
+11.1 Representations and warranties........................................................................ 13
+
+11.2 Reliance on representations and warranties ...................................................... 14
+
+11.3 Repetition........................................................................................................ 14
+
+11.4 Survival of representations and warranties ........................................................ 15
+
+12 Obligations and undertakings ....................................................................................... 15
+
+12.1 Reporting obligations ....................................................................................... 15
+
+12.2 Ranking .......................................................................................................... 15
+
+12.3 Insurance ........................................................................................................ 15
+
+12.4 Negative pledge by the Borrower ...................................................................... 15
+
+12.5 Comply with laws ............................................................................................. 16
+
+12.6 Other financial accommodation......................................................................... 16
+
+12.7 Disposal of assets............................................................................................ 16
+
+12.8 Continue to stay in business ............................................................................. 16
+
+12.9 No merger or acquisition .................................................................................. 16
+
+12.10 No disposal of subsidiaries ............................................................................... 16
+
+12.11 Term of undertakings ....................................................................................... 16
+
+13 Default ........................................................................................................................ 16
+
+13.1 Events of Default ............................................................................................. 16
+
+13.2 Obligations under Finance Documents .............................................................. 16
+
+13.3 Misrepresentation ............................................................................................ 17
+
+13.4 Insolvency Event ............................................................................................. 17
+
+13.5 Enforcement against assets ............................................................................. 17
+
+13.6 Vitiation of Finance Documents ........................................................................ 17
+
+13.7 Revocation of Authorisation .............................................................................. 17
+
+13.8 Material adverse effect ..................................................................................... 17
+
+13.9 Default under Finance Document...................................................................... 18
+
+14 Financier’s rights on Default ......................................................................................... 18
+
+14.1 Consequences ................................................................................................ 18
+
+14.2 Payments ........................................................................................................ 18
+
+15 Fees ........................................................................................................................... 18
+
+16 Expenses .................................................................................................................... 18
+
+17 Stamp duties and Taxes............................................................................................... 19
+
+17.1 Stamp duties and Taxes................................................................................... 19
+
+17.2 GST ................................................................................................................ 19
+
+17.3 Indemnity ........................................................................................................ 19
+
+18 Indemnities.................................................................................................................. 19
+
+18.1 Nature............................................................................................................. 19
+
+18.2 Survival of obligations ...................................................................................... 20
+
+19 Use of State funds ....................................................................................................... 20
+
+20 Assignment ................................................................................................................. 20
+
+20.1 No assignment by Borrower ............................................................................. 20
+
+20.2 Assignment by Financier .................................................................................. 20
+
+21 Set-off ......................................................................................................................... 20
+
+22 Pledge Deed ............................................................................................................... 20
+
+23 Limited rights of recourse ............................................................................................. 21
+
+24 Financier’s determination and certificate........................................................................ 22
+
+24.1 Certificate........................................................................................................ 22
+
+24.2 Not obliged to give reasons .............................................................................. 22
+
+24.3 Authorised Officer ............................................................................................ 22
+
+25 Cumulative rights ......................................................................................................... 22
+
+26 Approvals and consent................................................................................................. 22
+
+27 Time of the essence..................................................................................................... 22
+
+28 Time for performance................................................................................................... 23
+
+29 Records as evidence ................................................................................................... 23
+
+30 Supervening legislation ................................................................................................ 23
+
+31 Borrower’s own judgment ............................................................................................. 23
+
+31.1 No reliance on Financier .................................................................................. 23
+
+31.2 Financier not liable........................................................................................... 24
+
+32 Authorised Officers ...................................................................................................... 24
+
+33 Severability ................................................................................................................. 24
+
+34 Variation ..................................................................................................................... 24
+
+35 Waiver and exercise of rights........................................................................................ 24
+
+35.1 Waiver ............................................................................................................ 24
+
+35.2 Exercise of rights ............................................................................................. 24
+
+35.3 No liability ....................................................................................................... 24
+
+36 Notices........................................................................................................................ 25
+
+36.1 Method of service ............................................................................................ 25
+
+37 Governing law and jurisdiction ...................................................................................... 25
+
+37.1 Relevant Jurisdiction ........................................................................................ 25
+
+37.2 Non-exclusive jurisdiction ................................................................................. 25
+
+38 Inconsistency of provisions ........................................................................................... 25
+
+39 Counterparts ............................................................................................................... 25
+
+40 Execution by attorney................................................................................................... 25
+
+
+Agreement dated 2019
+
+
+Details
+
+Parties
+
+The Financier and the Borrower as described below.
+
+Item 1 Financier [Name] ACN [number]
+
+Item 2 Borrower [Name] ACN [number]
+
+Item 3 Facility Amount (clause 3.3) $[insert facility amount]
+
+Item 4 Expiry Date (clause 7.2) [date]
+
+Item 5 Interest Rate (clause 5) [percentage (fixed rate)]% per annum.
+
+Item 6 Availability Period (clause 3.1) The period commencing on (and including) the first day on which any of the Services (as defined in the Implementation Agreement) (the First Delivery Date) are delivered, and ending on the date falling [months] calendar months after the First Delivery Date (or such other date as agreed between the Financier and the Borrower).
+
+Item 7 Purpose (clause 4) To fund the Project.
+
+Item 8 Relevant Jurisdiction (clause 37.1) State of Victoria.
+
+Item 9 Conditions Precedent (clause 3.2) [Note – the following list of Conditions Precedent is illustrative only and is not exhaustive. The State and/or the Financier may require that additional or alternative conditions be included under this section. The nature of conditions to be included may vary with the transaction structure for a particular PAD Arrangement. Regard should be had to the timings by which each condition can be reasonably expected to be satisfied.] (1) A certificate from the Borrower as to solvency and annexing a resolution of the directors of the Borrower approving the Finance
+
+Documents, in such form as is acceptable to the Financier.
+
+(2) Specimen signatures A certified specimen signature of each Authorised Officer of the Borrower.
+
+(3) Finance Documents Duly executed counterparts of each Finance Document that the Financier requires to be executed on or before the date of the first Advance.
+
+(4) Stamping Evidence that all Finance Documents which require stamping have been duly stamped or if the Financier in its sole discretion does not require stamping at that time payment of the estimated funds for payment of stamp duty by the Borrower to the Financier.
+
+(5) Fees Evidence that all fees, if any, payable by the Borrower on or before the date of the first Advance have been paid (or will be paid simultaneously with the first Advance).
+
+(6) Constitution A certified copy of the constitution of each Finance Party. (7) Guarantors and Pledgors (1) Details of all Guarantors and/or Pledgors. (2) Evidence that each Guarantor and/or Pledgor (as applicable): (a) is credible; (b) in the case of each Guarantor, is one or more large public and private ancillary funds; (c) [in the case of each Pledgor, is a philanthropic trust or foundation]; and (d) has a balance sheet that is capable of supporting its obligations under the Guarantee; (3) Evidence to the satisfaction of the Financier that each Guarantor and/or Pledgor provides a statement from the auditor of that Guarantor and/or Pledgor confirming that that Guarantor and/or Pledgor is a wholesale or sophisticated investor. (8) Repayment Schedule A repayment schedule for the Facility to be agreed in writing between the Borrower and the Financier [provided that the first repayment date shall not fall earlier than [insert date]]; (9) No termination of the [Services Subcontract and/ or] Implementation Agreement Evidence that:
+
+(1) [the Services Subcontract and/ or] the Implementation Agreement [is/are] not terminated or proposed to be terminated on or before [insert date] or such extended date as agreed to by the Financier and the Borrower; or (2) if [the Services Subcontract and/or] the Implementation Agreement [has/ have] been terminated or is proposed to be terminated on or before [insert date] (or such extended date as agreed to by the Financier and the Borrower), evidence that further service delivery in respect of the Services is required or contemplated by the Borrower following or in accordance with termination of [the Services Subcontract and/or] the Implementation Agreement. [Note – the Services Subcontract is optional under the Implementation Agreement. If no Services Subcontract is required, this document will need to be updated to remove all references to the Services Subcontract.]
+
+Item 10 Fees (clause 15) [insert details of any fees payable – otherwise, specify ‘Not applicable’]
+
+Item 11 Address for Notices (clause 36)
+
+Borrower: [Name] ACN [number] Address: [insert details] Facsimile: [insert details] Email: [insert details] Attention: [insert contact person/title] Financier: [Name] ACN [number] Address: [insert details] Facsimile: [insert details] Email: [insert details] Attention: [insert contact person/title]
+
+
+
+
+It is agreed
+
+2 Definitions and interpretation
+
+2.1 Details
+
+Terms in bold type in the Details have the meaning described under them.
+
+2.2 Definitions
+
+In this document the following definitions apply unless the context indicates otherwise:
+
+(1) Advance means each loan drawn down under the Facility in accordance with this document or, as applicable, the outstanding principal amount of that Advance (including capitalised interest) at the relevant time;
+
+(2) Authorisation means:
+
+(a) an authorisation, consent, approval, resolution, licence, exemption, filing, lodgment or registration required by any Government Agency or any law; or
+
+(b) in relation to anything which will be fully or partially prohibited or restricted by law if a Government Agency intervenes or acts in any way within a specified period after lodgement, filing, registration or notification, the expiry of that period without intervention or action;
+
+(3) Authorised Officer means:
+
+(a) in relation to a Finance Party, any director or company secretary of that Finance Party, or any other person nominated by that Finance Party by a notice to the Financier as an ‘Authorised Officer’ on behalf of that Finance Party to sign notices or documents in connection with any of the Finance Documents, such notice to be accompanied by specimen signatures of the persons concerned; and
+
+
+(b) in relation to the Financier, any person whose title or office includes the word ‘Director’, ‘Associate Director’, ‘Manager’ or ‘Company Secretary’, or any person acting in any of those offices, or any person nominated by the Financier as an ‘Authorised Officer’ on behalf of the Financier by a notice to the Borrower;
+
+(4) Business Day means a day that is not a Saturday, Sunday or public or bank holiday in Melbourne, Australia;
+
+(5) Controller has the meaning given to it in section 9 of the Corporations Act;
+
+(6) Corporations Act means the Corporations Act 2001 (Cth);
+
+(7) Details means the itemised details at the front of this document; (8) Event of Default means any event described in clause 13 or otherwise specified in this document as an Event of Default;
+
+(9) Facility means the provision of each Advance to the Borrower as provided in this document;
+
+(10) Finance Documents means:
+
+(a) this document;
+
+(b) the Implementation Agreement;
+
+(c) the Master Guarantee Deed;
+
+(d) each Guarantor Accession Deed Poll;
+
+(e) any document or agreement entered into or provided under or in connection with, or for the purpose of amending or novating, any of the above;
+
+(f) any undertaking by or to a party or its lawyers under or in relation to any of the above; and
+
+(g) any other document that the Financier and the Borrower agree in writing is a Finance Document for the purposes of this document;
+
+(11) Finance Party means the Borrower and each Guarantor or any one or more of them;
+
+(12) Financial Indebtedness means any indebtedness or other liability (present or future, actual or contingent) relating to any loan, finance lease (as defined in Australian accounting standards), guarantee or indemnity in relation to any financial accommodation, or other financial accommodation;
+
+(13) First Delivery Date has the meaning given to that term in the Details;
+
+(14) First Loss Guarantor means [Name] ACN [number];
+
+(15) Government Agency means any government or governmental, semi-governmental or judicial entity or authority in any state, country or other jurisdiction, including any self-regulatory organisation established under a statute or stock exchange;
+
+(16) GST means any goods or services tax, value-added tax, consumption tax or similar tax including as that term is defined in the GST Act;
+
+(17) GST Act means A New Tax System (Goods and Services Tax) Act 1999 (Cth);
+
+(18) Guarantee means the guarantee, undertaking and indemnity given under the Master Guarantee Deed;
+
+(19) Guarantor has the meaning given to that term in the Master Guarantee Deed;
+
+(20) Guarantor Accession Deed Poll has the meaning given to that term in the Master Guarantee Deed;
+
+(21) Implementation Agreement means the implementation agreement standard terms dated on or about [date] between the Borrower and the State of Victoria acting through the [insert Department];
+
+(22) Insolvency Event means the happening of any one or more of the following events:
+
+(a) an application (not being an application that is being contested in good faith and that is withdrawn or dismissed within 5 Business Days of its
+
+commencement) is made to a court for an order or an order is made that a body corporate be wound up or that a liquidator or provisional liquidator be appointed to a Finance Party;
+
+(b) except to reconstruct or amalgamate while solvent on terms approved in writing by the Financier, a Finance Party enters into, or resolves to enter into, a scheme of arrangement, deed of company arrangement or composition with, or assignment for the benefit of, all or any class of its creditors, or it proposes a reorganisation, moratorium or other administration involving any of them;
+
+(c) except to reconstruct or amalgamate while solvent upon terms approved in writing by the Financier, a Finance Party resolves to wind itself up or otherwise dissolve itself, or gives notice of intention to do so, or is otherwise wound up or dissolves;
+
+(d) a Finance Party is unable to pay its debts as they fall due or is or states that it is insolvent or is treated as or presumed insolvent under any applicable legislation;
+
+(e) a receiver, receiver and manager, trustee, administrator or similar official is appointed over any or all of the assets or undertaking of a Finance Party;
+
+(f) a Finance Party takes any step to obtain protection or is granted protection from its creditors, under any applicable legislation;
+
+(g) a Liquidation occurs in relation to a Finance Party; or
+
+(h) anything analogous or having a substantially similar effect to any of the events specified above happens under the law of any applicable jurisdiction;
+
+(23) Liquidation includes provisional liquidation, administration, receivership, compromise, arrangement, amalgamation, reconstruction, winding up, dissolution, assignment for the benefit of creditors, arrangement or compromise with creditors, bankruptcy or death;
+
+(24) Master Guarantee Deed means the document of that title dated on or about [date] made by the Borrower, the First Loss Guarantor and the Financier;
+
+(25) Material Adverse Effect means a material adverse effect on any one or more of the following:
+
+(a) the ability of any Finance Party to comply with its obligations under any Finance Document;
+
+(b) the financial condition or business of any Finance Party; or
+
+(c) the effectiveness, priority or enforceability of this document or any of the Securities;
+
+(26) Outstanding Amount means all money that the Borrower (whether alone or with another person) is or at any time may become actually or contingently liable to pay to or for the account of the Financier (whether alone or with another person) for any reason whatsoever under or in connection with a Finance Document.
+
+It includes money by way of principal, interest, fees, costs, indemnities, charges, duties or expenses or payment of liquidated or unliquidated damages for which the Borrower is or at any time may become liable under or in connection with a
+
+Finance Document, or as a result of a breach of or default under or in connection with a Finance Document.
+
+Where the Borrower would have been liable but for its Liquidation, it will be taken still to be liable;
+
+(27) Permitted Encumbrances means in relation to each Finance Party:
+
+(a) the Master Guarantee Deed;
+
+(b) any Security Interest over any of its assets to which the Financier has expressly consented in writing;
+
+(c) a lien arising by operation of law in the ordinary course of day-to-day trading and not securing Financial Indebtedness, where it duly pays the indebtedness secured by that lien other than indebtedness contested in good faith;
+
+(d) a charge or lien arising in favour of a Government Agency by operation of statute unless there is default in payment of money secured by that charge or lien; and
+
+(e) any rights of set-off, netting or combination of accounts;
+
+[Note – consideration should be given as to whether any other encumbrances specific to a Finance Party’s business and/or operations should be specified above.]
+
+(28) Pledge Deed means each deed setting out the terms pursuant to which a pledge is made available to the Borrower for the purpose of supporting the Project, including as at the date of this document:
+
+(a) the pledge deed dated on or about the date of this document between [insert pledgor(s)] and the Borrower; and
+
+(b) the pledge deed dated on or about the date of this document between [insert pledgor(s)] and the Borrower;
+
+[Note – include a description of all pledge deeds that are to be entered into on or about the same date as this document.]
+
+(29) Pledgor a party that has entered into a Pledge Deed as a ‘pledgor’, including as at the date of this document:
+
+(a) [insert pledgor(s)]; and
+
+(b) [insert pledgor(s)];
+
+(30) Potential Event of Default means any event or circumstance that with the giving of notice or passage of time or both would become an Event of Default;
+
+(31) Principal Outstanding means at any time, the aggregate principal amount of all outstanding Advances (including capitalised interest) at that time;
+
+(32) Project means [insert description and purpose of the Project];
+
+(33) Repayment Schedule means a repayment schedule for the Facility agreed in writing from time to time between the Borrower and the Financier;
+
+(34) Security Interest means any interest held as security for the payment of a monetary obligation or the performance of any other obligation, including:
+
+(a) a mortgage, charge, encumbrance, lien, pledge or hypothecation; and
+
+(b) a bill of sale, assignment, title retention arrangement, trust or power held as security;
+
+(35) Services has the meaning given to it in the Implementation Agreement;
+
+(36) [Services Subcontract means the services subcontract between the [insert party] and the Borrower in relation to delivery of services under the Project dated on or about the date of this document];
+
+[Note – the Services Subcontract is optional under the Implementation Agreement. If no Services Subcontract is required, this document will need to be updated to remove all references to the Services Subcontract.]
+
+(37) Side Deed means the side deed dated on or about the date of this document between the Borrower, the State, the Financier and the First Loss Guarantor;
+
+(38) State means the State of Victoria acting through the [insert Department];
+
+(39) Tax includes any tax, GST, rate, levy, impost or duty (other than a tax on the net overall income of the Financier) and any interest, penalty, fine or expense relating to any of them; and
+
+(40) Undrawn Commitment means at any time, the Facility Amount less the aggregate of the Principal Outstanding, at that time.
+
+2.3 Interpretation
+
+(1) In this document, unless the context indicates otherwise, reference to:
+
+(a) one gender includes the others;
+
+(b) the singular includes the plural and the plural includes the singular;
+
+(c) a person includes a firm, unincorporated association, corporation and a government or statutory body or authority;
+
+(d) a party to this document or another agreement or document includes the party's executors, administrators, successors and permitted substitutes or assigns;
+
+(e) a clause, annexure or schedule is a reference to a clause of, or annexure or schedule to, this document;
+
+(f) an agreement or document is to the agreement or document as amended, novated, supplemented or replaced, except to the extent prohibited by this document;
+
+(g) any law, legislation or legislative provision includes any statutory modification, amendment or re-enactment, and any subordinate legislation or regulations issued under that legislation or legislative provision; and
+
+(h) "writing" includes a facsimile transmission and any means of reproducing words in a tangible and permanently visible form.
+
+(2) Where a word or expression is given a particular meaning, other parts of speech and grammatical forms of that word or expression have a corresponding meaning.
+
+(3) Headings and any table of contents or index are for convenience only and do not form part of this document or affect its interpretation.
+
+(4) A provision of this document must not be construed to the disadvantage of a party merely because that party was responsible for the preparation of the document or the inclusion of the provision in the document.
+
+2.4 Parties
+
+If a Finance Party comprises 2 or more persons a reference to that Finance Party includes each and any 2 or more of them.
+
+3 Availability and limits
+
+3.1 Availability of Facility
+
+Provided no Event of Default or Potential Event of Default has occurred and subject to this document, the Financier will provide an Advance to the Borrower during the Availability Period on the date requested in writing by the Borrower not less than 2 Business Days (or such shorter period as the Financier may agree) before the date the Advance is to be made. The Facility may be provided in 1 or more Advances in any amount.
+
+3.2 Conditions Precedent
+
+The right of the Borrower to request an Advance and the obligation of the Financier to make an Advance are subject to the Financier having been provided with the Conditions Precedent in form and substance satisfactory to the Financier.
+
+3.3 Limit of Facility
+
+The Borrower will not be entitled to request an Advance and the Financier will have no obligation to comply with any request for an Advance which would result in the aggregate of the Principal Outstanding exceeding the Facility Amount.
+
+3.4 Redrawings
+
+Unless a contrary indication appears in this document, any part of the Facility which is repaid may be re-borrowed in accordance with the terms of this document.
+
+3.5 Cancellation
+
+After the Availability Period, any Undrawn Commitment under the Facility will be cancelled.
+
+4 Purpose
+
+The Borrower may only use the Facility for the Purpose or any other purpose the Financier agrees to in writing.
+
+5 Interest
+
+5.1 Interest on Advance
+
+(1) Interest accrues daily on each Advance at the Interest Rate.
+
+(2) The Borrower must pay interest in arrears on each Advance on [the last Business Day of each calendar month].
+
+[Note – the above timing requirement for payment of interest is illustrative only. Parties may agree a different interest regime depending on the transaction structure for a particular PAD Arrangement.]
+
+(3) Interest will be calculated on the actual days elapsed based on a 365 day year.
+
+5.2 Accrual and payment
+
+(1) Interest accrues on each unpaid amount that is due and payable by the Borrower:
+
+(a) daily up to the date of actual payment from (and including) the due date or, in the case of an amount payable by way of reimbursement or indemnity, the date of disbursement or loss, if earlier;
+
+(b) both before and after judgment (as a separate and independent obligation); and (c) at the rate provided in clause 5.3. (2) The Borrower must pay interest accrued under this clause 5.2 on demand by the Financier and, if not paid, shall be capitalised as principal on the relevant due date.
+
+5.3 Rate The rate applicable under clause 5.2 is the sum of [2%] per annum plus the rate (if any) applicable to the amount immediately before the due date.
+
+[Note – the above rate of default interest is indicative only. Parties may agree a different interest regime depending on the transaction structure for a particular PAD Arrangement.]
+
+6 Prepayments of Advances
+
+6.1 Voluntary prepayments (1) Subject to this clause 6, if the Borrower gives at least 5 Business Days prior notice to the Financier the Borrower may prepay all or part of the Principal Outstanding. That notice is irrevocable and the Borrower must prepay in accordance with it.
+
+(2) Unless the Financier agrees otherwise, prepayment of part only of the Principal Outstanding may only be made in a principal amount of a minimum of A$[insert facility amount] or an integral multiple of that amount.
+
+6.2 Interest and break costs
+
+The Borrower must pay to the Financier for the account of the Financier:
+
+(1) any interest accrued on any amount prepaid under this document; and (2) any amount payable under clause 18 in consequence of a prepayment that is not made in accordance with clause 6.1.
+
+[Note – the ability for the Borrower to prepay principal outstanding has been included as an example only and may not be applicable to the transaction structure for a particular PAD Arrangement.]
+
+7 Repayments
+
+7.1 Repayment schedule
+
+Subject to this document, the Borrower must repay the Principal Outstanding to the Financier in accordance with the Repayment Schedule.
+
+[Note – this document has been drafted on the basis that the relevant loan will be repaid in accordance with a repayment schedule to be separately agreed between the parties. This is illustrative only, and may not be appropriate for a particular PAD Arrangement (eg, in other cases, a bullet repayment on maturity may be agreed/appropriate).]
+
+7.2 Amount payable
+
+On the Expiry Date the Borrower must pay to the Financier:
+
+(1) the whole of any remaining Principal Outstanding together with accrued interest and fees on that amount; and
+
+(2) all other money then payable by the Borrower under this document and unpaid.
+
+8 Payments
+
+8.1 Payments by Borrower
+
+The Borrower must make all payments under this document by transfer of immediately available funds to the account or accounts in Australia specified by the Financier, by 11.00am (Melbourne time) on the due date.
+
+8.2 No deductions
+
+(1) All payments to be made by the Borrower under this document must be made without set-off or counterclaim and free and clear of and without deduction or withholding for or on account of Taxes.
+
+(2) If the Borrower is prohibited by law from making a payment free of all deductions and withholdings then:
+
+(a) the Borrower must pay an additional amount to the Financier so that the actual amount received after deduction or withholding (and after payment of any additional Taxes or other taxes or charges due as a consequence of the payment of the additional amount) equals the amount that would have been received by the Financier if the deduction or withholding were not required; and
+
+(b) the Borrower must promptly provide to the Financier official receipts or other documentation acceptable to the Financier evidencing the payment to the relevant Government Agency of any amount withheld or deducted.
+
+8.3 Payment to be made on Business Day
+
+(1) Whenever any payment by the Borrower becomes due on a day that is not a Business Day, the due date will be the preceding Business Day.
+
+(2) If a payment is received from the Borrower by the Financier on the due date but after the time specified for payment or otherwise not in accordance with this document that payment will be treated as having been received before the specified time on the following Business Day.
+
+8.4 Appropriation where insufficient money available
+
+Amounts received by the Financier will be appropriated as between principal, interest and other amounts as the Financier may respectively determine. This appropriation will override any appropriation made by a Finance Party. Without limitation the Financier may appropriate amounts received first in payment of amounts payable to it by way of indemnity or reimbursement.
+
+8.5 Rounding
+
+In making any allocation or appropriation under this document the Financier may round amounts to the nearest dollar.
+
+9 Changes in law
+
+9.1 Increased costs
+
+If the Financier or any holding company of the Financier is affected by any change in, any making of or any change in the interpretation or application by any Government Agency of, any law, official directive or request and as a result:
+
+(1) the effective cost to the Financier or any holding company of the Financier of making, funding or maintaining any accommodation made available or to be made available under the Finance Documents is increased in any way;
+
+(2) any amount paid or payable to the Financier or received or receivable by the Financier, or the effective return to the Financier under or in respect of any Finance Document is reduced in any way; or
+
+(3) the return of the Financier or any holding company of the Financier on the capital that is or becomes directly or indirectly allocated by the Financier to any accommodation made available or to be made available under the Finance Documents is reduced in any way,
+
+then:
+
+(4) the Financier will promptly notify and provide details of the calculation of the amount of the increased cost or the reduction to the Borrower; and
+
+(5) on demand by the Financier, the Borrower must pay to the Financier the amount certified by an Authorised Officer of the Financier to be necessary to compensate it or any holding company of the Financier for that increased cost or the reduction (as applicable).
+
+10 Illegality
+
+If at any time it is or will become unlawful or contrary to any law or directive of any Government Agency for the Financier to:
+
+(1) allow all or part of the Facility to remain outstanding;
+
+(2) make or fund or allow to be outstanding all or part of the Facility;
+
+(3) carry out all or any of its other obligations under this document; or
+
+(4) charge or receiv
+
+then on the Financier so notifying the Borrower:
+
+(5) that part of the Facility that is or will become unlawful or contrary to any law or directive of any Government Agency will be cancelled; and
+
+(6) the Borrower must repay that part that is affected by the illegality on demand or on the date the Financier certifies to be necessary to comply with the relevant law or directive, together with all accrued interest on that amount and any other sum then due to the Financier under this document.
+
+11 Representations and warranties
+
+11.1 Representations and warranties
+
+The Borrower represents and warrants that:
+
+[Note – the following list of representations and warranties is illustrative only and is not exhaustive. The State and/or the Financier may require that additional or alternative representations and warranties be included under this section. The nature of representations and warranties to be included may vary with the transaction structure for a particular PAD Arrangement.]
+
+(1) it is duly incorporated and validly existing under the law of its jurisdiction of incorporation;
+
+(2) it has taken all necessary corporate action to authorise the entry into and performance of the Finance Documents to which it is expressed to be a party, and to carry out the transactions contemplated by those documents;
+
+(3) each Finance Document to which it is expressed to be a party is its valid and binding obligation enforceable in accordance with its terms, subject to any necessary stamping and registration;
+
+(4) the execution and performance by it of the Finance Documents to which it is expressed to be a party and each transaction contemplated under those documents did not and will not violate in any respect a provision of:
+
+(a) a law or treaty or a judgment, ruling, order or decree of a Government Agency binding on it;
+
+(b) its constitution; or
+
+(c) any other document or agreement that is binding on it or its assets,
+
+and, except as provided by the Finance Documents, did not and will not:
+
+(d) create or impose a Security Interest on any of its assets; or
+
+(e) allow a person to accelerate or cancel an obligation with respect to Financial Indebtedness, or constitute an event of default, cancellation event, prepayment event or similar event (whatever called) under an agreement relating to Financial Indebtedness, whether immediately or after notice or lapse of time or both;
+
+(5) no litigation, arbitration, Tax claim, dispute or administrative or other proceeding is current or pending or, to its knowledge, threatened, which may have a Material Adverse Effect;
+
+(6) no Event of Default or Potential Event of Default has occurred;
+
+(7) each Authorisation that is required in relation to:
+
+(a) the execution, delivery and performance by it of the Finance Documents to which it is expressed to be a party and the transactions contemplated by those documents; and
+
+(b) the validity and enforceability of those documents,
+
+has been obtained or effected, is in full force and effect, has been complied with and all applicable fees have been paid;
+
+(8) all financial statements and other documents and information provided by the Borrower to the Financier is true and complete in all material respects at the date of this document or, if provided later, when provided. Neither that information nor its conduct and the conduct of anyone on its behalf in relation to the transactions contemplated by the Finance Documents, was or is misleading in any material respect, by omission or otherwise;
+
+(9) it has complied with all laws binding on it;
+
+(10) except as disclosed to and agreed to by the Financier, it does not hold any assets as the trustee of any trust;
+
+(11) the entry into the Finance Documents to which it is a party is for its commercial benefit;
+
+(12) no Controller is currently appointed to any of its property; and
+
+(13) it is able to, and will continue to be able to, pay its debts as and when they fall due for payment after entering into or participating in any Finance Document or any transaction contemplated under any of those documents to which it is a party.
+
+11.2 Reliance on representations and warranties
+
+The Borrower acknowledges that the Financier has entered into the Finance Documents in reliance on the representations and warranties in this document.
+
+11.3 Repetition
+
+The Borrower will be taken to have represented and warranted to the Financier that the representations and warranties contained in this clause 11 are true, correct and not misleading as at the date of each Advance, on each date on which a Finance Document is executed and on each day when the Outstanding Amount exists.
+
+11.4 Survival of representations and warranties
+
+All representations and warranties in any Finance Document survive the execution and delivery of the Finance Documents and the provision of Advances and accommodation.
+
+12 Obligations and undertakings
+
+[Note – the following list of undertakings (including reporting requirements) is illustrative only and is not exhaustive. The State and/or the Financier may require that additional or alternative undertakings be included under this section. The nature of undertakings to be included may vary with the transaction structure for a particular PAD Arrangement.]
+
+12.1 Reporting obligations
+
+The Borrower must:
+
+(1) provide or procure to be provided to the Financier when requested by the Financier such financial and other information as the Financier may require in relation to its financial condition and property and assets and in relation to any Event of Default or Potential Event of Default; and
+
+(2) promptly advise the Financier of any Event of Default or Potential Event of Default.
+
+12.2 Ranking
+
+The Borrower must ensure that its payment obligations to the State under the Documents will rank at least pari passu with the claims of all its other unsecured and unsubordinated creditors including the Financier, except for obligations mandatorily preferred by law applying to companies generally.
+
+12.3 Insurance
+
+The Borrower must:
+
+(1) maintain all risks insurance over all its physical assets, including insurance on the items for which funds are borrowed on terms acceptable to the Financier;
+
+(2) where the Facility is used to fund the cost of construction, the Borrower must ensure that the contractor has adequate insurance cover during any construction period on terms acceptable to the Financier; and
+
+(3) provide to the Financier evidence of insurance cover annually for the term of this document.
+
+12.4 Negative pledge by the Borrower
+
+The Borrower must not create or allow to exist without the prior consent of the Financier any Security Interest over all or any of its respective present or future revenues or assets other than:
+
+(1) under the Master Guarantee Deed; or
+
+(2) Permitted Encumbrances.
+
+12.5 Comply with laws
+
+The Borrower must comply with all applicable laws and pay all obligations that if unpaid might result in a lien or claim against any of the Borrower's assets;
+
+12.6 Other financial accommodation
+
+The Borrower undertakes that it will not raise any financial accommodation from any other party [other than financial accommodation agreed by the Financier in writing from time to time].
+
+[Note – permitted financial accommodation to be agreed between the parties depending on the structure of the PAD Arrangement. An alternative approach may be to specify particular financial accommodation that is expressly permitted (such as credit cards, loans in the ordinary course of the Borrower’s ordinary business etc).]
+
+12.7 Disposal of assets
+
+The Borrower must not dispose of any assets other than in its usual and ordinary course of business.
+
+12.8 Continue to stay in business
+
+The Borrower must not engage in any other business other than that in which it is presently operating.
+
+12.9 No merger or acquisition
+
+The Borrower must not merge with or acquire another company or entity.
+
+12.10 No disposal of subsidiaries
+
+The Borrower must not dispose of any of its subsidiaries.
+
+12.11 Term of undertakings Each undertaking in this clause 12 continues from the date of this document until the Outstanding Amount is fully and finally repaid.
+
+13 Default
+
+13.1 Events of Default Each of the following events listed in this clause 13 is an Event of Default (whether or not it is in the control of any Finance Party).
+
+[Note – the events of default listed in this section are drafted broadly. These should be carefully considered and revised as required for the purposes of the relevant PAD Arrangement.]
+
+13.2 Obligations under Finance Documents
+
+A Finance Party fails:
+
+(1) to pay or repay in accordance with its obligations under the Finance Documents any part of the Outstanding Amount when due;
+
+(2) to comply with any of its other obligations under a Finance Document and, if in the opinion of the Financier that failure can be remedied within 5 Business Days, does not remedy the failure within 5 Business Days after the Financier gives notice to the Borrower requiring that failure to be remedied; or
+
+(3) to satisfy within the time stipulated anything that the Financier made a condition of its waiving compliance with a condition precedent or undertaking in a Finance Document.
+
+13.3 Misrepresentation
+
+A representation, warranty or statement by or on behalf of a Finance Party in a Finance Document, or in a document provided under or in connection with a Finance Document, is not true in a material respect or is misleading in a material respect when made or repeated.
+
+13.4 Insolvency Event
+
+Any Insolvency Event occurs.
+
+13.5 Enforcement against assets
+
+One or more of the following events occurs in relation to all or any of the assets and undertaking of a Finance Party:
+
+(1) a receiver, receiver and manager, administrative receiver or similar officer is appointed;
+
+(2) a Security Interest becomes enforceable or is enforced; or
+
+(3) a distress, attachment or other execution is levied or enforced.
+
+13.6 Vitiation of Finance Documents
+
+One or more of the following events occurs in relation to a Finance Document:
+
+(1) all or any part of a Finance Document is terminated or is or becomes void, illegal, invalid, unenforceable or of limited force and effect;
+
+(2) a party becomes entitled to terminate, rescind or avoid all or part of a Finance Document; or
+
+(3) a party other than the Financier alleges or claims that an event described in clause 13.6(1) has occurred or that it is entitled as described in clause 13.6(2).
+
+13.7 Revocation of Authorisation
+
+An Authorisation that is material to the performance by any Finance Party of a Finance Document, or to the validity and enforceability of a Finance Document is repealed, revoked or terminated or expires, or is modified or amended or not renewed, or conditions are attached to it in a manner unacceptable to the Financier, and is not immediately replaced by another Authorisation acceptable to the Financier.
+
+13.8 Material adverse effect
+
+Any event or series of events, whether related or not, occurs, that may have in the opinion of the Financier a Material Adverse Effect.
+
+13.9 Default under Finance Document
+
+Any default, event of default or potential event of default (as those expression, or any equivalent expressions, are defined in any Finance Document) occurs.
+
+14 Financier’s rights on Default
+
+14.1 Consequences
+
+In addition to any other rights provided by law, any Finance Document or the Side Deed, at any time after an Event of Default (unless that Event of Default has been expressly waived by the Financier in writing) the Financier may do all or any of the following:
+
+(1) by notice to the Borrower declare all Outstanding Amount (or any part of that money as specified by the Financier in the notice) actually or contingently owing immediately due and payable, and the Borrower must immediately pay to the Financier the Outstanding Amount (or any part of that money as specified by the Financier in the notice);
+
+(2) by notice to the Borrower terminate the obligations of the Financier under this document;
+
+(3) enforce any or all of the Guarantees; and
+
+(4) take any action whatsoever that the Financier (or any person acting on the Financier’s behalf) is authorised or entitled to take under this document or any other Finance Document on the occurrence of an Event of Default.
+
+14.2 Payments
+
+All money received by the Financier at any time after any Outstanding Amount has become immediately due and payable under a notice given under clause 14.1 will be applied, subject to any prior ranking claims:
+
+(1) firstly, in or towards discharging all costs and expenses incurred by the Financier in preserving, exercising, protecting or enforcing its rights under the Finance Documents;
+
+(2) secondly, in or towards discharging the Outstanding Amount and any other money payable under the Finance Documents; and
+
+(3) thirdly, subject to payment and satisfaction of all Outstanding Amount and subject to the rights of third parties of which the Financier has actual notice, any balance in payment to the Borrower.
+
+15 Fees Subject to clause 19, the Borrower must pay to the Financier the fees (if any) as described in Item 10 of the Details.
+
+16 Expenses Subject to clause 19, on demand the Borrower must pay or, if the Financier requires, reimburse the Financier for the Financier’s costs and expenses (including legal costs and expenses on a full indemnity basis) in relation to:
+
+(1) the actual, attempted or contemplated enforcement of the Finance Documents, or actual or contemplated exercise, preservation or consideration of any rights, powers or remedies under the Transaction Documents; and
+
+(2) any other costs, expenses and fees payable by the Borrower to the Financier under any of the Finance Documents or as otherwise agreed between the Financier and the Borrower.
+
+17 Stamp duties and Taxes
+
+17.1 Stamp duties and Taxes Subject to clause 19, the Borrower must pay all stamp, transaction, registration and other Taxes (including, subject to clause 17.3, fines and penalties) that may be payable or determined to be payable in relation to the execution, delivery, performance or enforcement of any Finance Document or any payment or receipt or any other transaction contemplated by any Finance Document. Those Taxes exclude any Tax on the overall net income of the Financier.
+
+17.2 GST
+
+(1) Unless expressly specified otherwise, all payments to be made by the Transaction Parties under or in connection with any Finance Document have been calculated or determined without regard to GST. (2) Subject to clause 19, if all or part of any such payment is the consideration for a taxable supply for GST purposes then, when the Finance Party makes the payment:
+
+(a) it must pay to the Financier an additional amount equal to that payment (or part) multiplied by the appropriate rate of GST (currently 10%); and
+
+(b) the Financier will promptly provide to the Finance Party a tax invoice complying with the relevant GST legislation.
+
+(3) Where under any Finance Document a Finance Party is required to reimburse or indemnify for an amount, the Finance Party must pay the relevant amount (including any sum in respect of GST) less any GST input tax credit the Financier determines that it is entitled to claim in respect of that amount.
+
+17.3 Indemnity Subject to clause 19, the Borrower indemnifies the Financier against any liability resulting from delay or omission to pay those Taxes under this clause 17 except to the extent the liability results from failure by the Financier to pay any Tax after having been put in funds to do so by the Borrower.
+
+18 Indemnities
+
+18.1 Nature Subject to clause 19, the Borrower indemnifies the Financier against any loss, cost, charge, liability or expense the Financier sustains or incurs (but excluding any loss, cost, charge, liability or expense solely caused by the fraud, wilful default or gross negligence of the Financier) caused or contributed to by:
+
+(1) any Event of Default or Potential Event of Default;
+
+(2) any exercise or attempted exercise of any right, power or remedy under any Finance Document;
+
+(3) any act by the Financier in reliance on or any communication purporting to be from a Finance Party or to be given on behalf of that Finance Party that on its face appears to be genuine and signed by an Authorised Officer of that Finance Party; or
+
+(4) accommodation requested by the Borrower not being provided for any reason (including failure to fulfil any Condition Precedent, but excluding if due to any default by the Financier).
+
+18.2 Survival of obligations
+
+Each indemnity in the Finance Documents is a continuing obligation, separate and independent from the other obligations of the Finance Party and survives the termination of this document.
+
+19 Use of State funds
+
+Other than any legal costs referred to in or otherwise contemplated by the financial model agreed between the Borrower and the State for the Project, any amount in the nature of costs, Taxes and expenses incurred by the Borrower to the Financier under this document must not be:
+
+(1) paid out of any funds received by the Borrower from the State under or in accordance with the Implementation Agreement; or
+
+(2) paid out of any sources of funds other than as permitted under this document.
+
+20 Assignment
+
+20.1 No assignment by Borrower
+
+The Borrower must not at any time assign or transfer to any person or cause or permit any person to acquire an interest in the Borrower’s rights under the Finance Documents.
+
+20.2 Assignment by Financier
+
+Subject to the Side Deed, the Financier may at any time assign or transfer all or any of its rights or obligations under the Finance Documents.
+
+21 Set-off
+
+Subject always to the Side Deed, the Financier may set-off against any debt due and owing by the Borrower to the Financier, including debts due and owing under any Finance Document, any debt due and owing by the Financier to the Borrower, including any money in any currency held by the Financier for the account of the Borrower in any place.
+
+22 Pledge Deed
+
+The Borrower agrees that, except to the extent otherwise expressly agreed in writing by the Financier, the Borrower must:
+
+(1) promptly provide the Financier with true and complete copies of all variations, novations or replacements of each Pledge Deed;
+
+(2) use its best endeavours to ensure that each Pledge Deed is at all times legal, valid, binding and enforceable in accordance with its terms;
+
+(3) not agree to any amendment to the terms of a Pledge Deed;
+
+(4) not assign, novate or otherwise dispose of a Pledge Deed;
+
+(5) not request payment under a Pledge Deed;
+
+(6) comply with all requirements (including its obligations) under or in relation to each Pledge Deed;
+
+(7) not release any other party to a Pledge Deed from any obligation under or in relation to that Pledge Deed;
+
+(8) not waive performance by any other party to a Pledge Deed of any obligation under or in relation to that Pledge Deed;
+
+(9) not allow any right of set off, any counterclaim, or any defence to performance of obligations, to arise in favour of any other party to a Pledge Deed;
+
+(10) obtain and maintain all consents, approvals and authorisations which at any time are necessary in connection with each Pledge Deed or to maintain each Pledge Deed’s continuance, validity or performance (including enforcement);
+
+(11) notify the Financier of any non-compliance with obligations under, or dispute under, a Pledge Deed promptly on becoming aware of it;
+
+(12) inform the Financier promptly if claims, proceedings or actions are taken or commenced which could adversely affect a Pledge Deed;
+
+(13) not do (or omit to do) anything which might result in a Pledge Deed, any of its rights or interests in a Pledge Deed being or becoming invalid, unenforceable, liable to forfeiture or cancellation; and
+
+(14) if requested by the Financier in writing exercise its rights, powers and entitlements under any or all Pledge Deeds in accordance with any direction or instruction issued by the Financier, including requesting payment of a pledge under any Pledge Deed and applying that payment towards reduction of the Outstanding Amount.
+
+23 Limited rights of recourse (1) Subject to paragraphs (2) and (3) below and to the terms of the Side Deed, there shall be full recourse to the Borrower and to all of its assets for the liabilities of the Borrower under this document and the other Finance Documents, and in no event shall the Guarantors, any Pledgor or any employee, officer, director, advisor, consultant, agent or representative of the Borrower or the Guarantors or any pledgor under a Pledge Deed, be liable or obligated for such liabilities and obligations of the Borrower, other than in terms of the Master Guarantee Deed, each Guarantor Accession Deed Poll and each Pledge Deed.
+
+(2) The Borrower's liability under or in connection with this document is limited to the extent the liability can be satisfied out of the assets of the Borrower.
+
+(3) The Financier may not seek to recover any amounts owing to it under this document or any other Finance Document by bringing proceedings against the Borrower to have the Borrower wound up. (4) For the avoidance of doubt, but subject to the Side Deed, this clause 23 does not prevent the Financier from:
+
+(a) doing anything else necessary to enforce its rights in connection with the assets of the Borrower; or
+
+(b) taking proceedings to obtain (1) an injunction or other order to restrain any breach of the Documents; or (2) declaratory relief or another similar judgment or order as to the obligations of the Borrower and Guarantors under the Documents. (5) This clause 23 will not apply to a liability or an obligation of the Borrower as a result of the Borrower's fraud, wilful default or gross negligence, including a wilful failure to comply with any of its obligations under the Finance Documents.
+
+24 Financier’s determination and certificate
+
+24.1 Certificate
+
+A certificate by the Financier relating to any Finance Document is, in the absence of manifest error, conclusive evidence against the Borrower of the matters certified.
+
+24.2 Not obliged to give reasons
+
+The Financier is not obliged to give the reasons for its determination or opinion in relation to any matter under any Finance Document.
+
+24.3 Authorised Officer
+
+A determination or an opinion of an Authorised Officer of the Financier that is given to the Borrower or otherwise expressed or acted on by the Financier as being a determination or an opinion of the Financier will be treated as being a determination or opinion of the Financier.
+
+25 Cumulative rights
+
+The rights, powers and remedies provided in this document are in addition to those provided by law independently of this document and each right, power and remedy provided in this document (including any right of indemnity) is additional to and not exclusive of every other right, power or remedy provided in this document.
+
+26 Approvals and consent
+
+Subject to any express provision in the Finance Documents to the contrary or unless this document expressly provides otherwise, the Financier may conditionally or unconditionally give or withhold its approval or consent in its absolute discretion.
+
+27 Time of the essence
+
+(1) Time is of the essence of this document.
+
+(2) If the parties agree to vary a time requirement, the time requirement so varied is of the essence of this document.
+
+(3) An agreement to vary a time requirement must be in writing.
+
+28 Time for performance
+
+Subject to any express provision to the contrary in this document, if:
+
+(1) the day on which anything is to be done is not a Business Day, that thing must be done on the next following Business Day; and
+
+(2) an act, other than a payment or the giving of a communication, is required to be done on a particular day and the act is done after 5.00pm on that day, it will be treated as having be
+
+29 Records as evidence
+
+The Financier may maintain records specifying:
+
+(1) payments made by the Financier for the account of any Finance Party;
+
+(2) payments by any Finance Party for the account of the Financier under any Finance Document; and
+
+(3) interest, fees, charges, costs and expenses payable in relation to the Finance Documents,
+
+and those records will as against the Borrower constitute conclusive evidence, in the absence of manifest error, of the matters set out in them.
+
+30 Supervening legislation
+
+Any present or future legislation that operates:
+
+(1) to lessen or vary in favour of a Finance Party any of its obligations in connection with this document; or
+
+(2) to postpone, stay, suspend or curtail any rights of the Financier under this document,
+
+is excluded except to the extent that its exclusion is prohibited or rendered ineffective by law.
+
+31 Borrower’s own judgment
+
+31.1 No reliance on Financier
+
+The Borrower will make its own judgment and decision in respect of each utilisation of financial accommodation under this document independently and without reliance on the Financier.
+
+31.2 Financier not liable
+
+The Financier is under no liability or responsibility (whether in contract, tort or otherwise) and is not to be taken to have accepted any liability or responsibility (whether in contract, tort or otherwise) whatsoever in respect of movement in rates of interest or exchange or any advice, opinions or data rendered or given by any of their officers, employees, agents or other persons representing the Financier, irrespective of whether or not the advice, opinions or data was or is rendered or given at the request of the Borrower or that the advice was or is incorrectly or negligently given.
+
+32 Authorised Officers
+
+The Borrower:
+
+(1) irrevocably authorises the Financier to rely on a certificate by any person purporting to be its director or secretary as to the identity and signatures of its Authorised Officers; and
+
+(2) warrants that those persons have been authorised to give notices and communications under or in connection with the Finance Documents.
+
+33 Severability
+
+A provision of a Finance Document that is prohibited or unenforceable in any jurisdiction is ineffective in that jurisdiction to the extent of the prohibition or unenforceability. This does not invalidate the remaining provisions of that Finance Document nor affect the validity or enforceability of that provision in any other jurisdiction.
+
+34 Variation
+
+An amendment or variation to this document is not effective unless it is in writing and signed by the parties.
+
+35 Waiver and exercise of rights
+
+35.1 Waiver
+
+A right in favour of the Financier under a Finance Document, a breach of an obligation of a Finance Party under a Finance Document or the occurrence of an Event of Default can only be waived by a written instrument signed by the Financier. No other act, omission or delay of the Financier will constitute a waiver.
+
+35.2 Exercise of rights
+
+A single or partial exercise or waiver by the Financier of any right under a Finance Document will not prevent any other exercise of that right or the exercise of any other right.
+
+35.3 No liability
+
+The Financier will not be liable for any loss, cost or expense of the Borrower caused or contributed to by the waiver of, exercise of, attempted exercise of, failure to exercise or delay in exercising a right of the Financier.
+
+36 Notices
+
+36.1 Method of service
+
+All notices or other communications to or by a party to this document:
+
+(1) must be in writing;
+
+(2) must be signed by an Authorised Officer of the sender;
+
+(3) will be treated as being given or made:
+
+(a) (in the case of delivery in person or by post) when delivered, received or left at the address of the recipient shown below; or
+
+(b) (in the case of a facsimile transmission) on receipt by the sender of an error free transmission report at the end of transmission,
+
+but if delivery or receipt is on a day that is not a Business Day in the place to which the communication is sent or is later than 4.00pm (local time), it will be treated as being given or made at the commencement of business on the next Business Day in that place; and
+
+(4) must be addressed to the recipient at the address or facsimile number specified in Item 11 of the Details for that party or any other address or facsimile number in the
+
+same country subsequently notified by one party to the other parties for the purposes of this document.
+
+37 Governing law and jurisdiction
+
+37.1 Relevant Jurisdiction
+
+The law of the Relevant Jurisdiction governs this document.
+
+37.2 Non-exclusive jurisdiction
+
+The parties submit to the non-exclusive jurisdiction of the courts of the Relevant Jurisdiction and of the Commonwealth of Australia.
+
+38 Inconsistency of provisions
+
+If there is any inconsistency between the provisions of this document and the provisions of any other Finance Document, the provisions of this document will govern and apply to the extent of the inconsistency.
+
+39 Counterparts
+
+This document may be executed in any number of counterparts. Each counterpart is an original but the counterparts together are one and the same instrument.
+
+40 Execution by attorney
+
+If an attorney executes this document, the attorney declares that the attorney has no notice of revocation, termination or suspension of the power of attorney under which the attorney executes this document.
+
+Executed as an agree"""

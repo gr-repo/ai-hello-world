@@ -2,3 +2,5 @@ notebooks/data
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
 node_modules/
+src/common/__pycache__/llm_client_factory.cpython-312.pyc
+src/dspy_utils/__pycache__/dspy_helpers.cpython-312.pyc
